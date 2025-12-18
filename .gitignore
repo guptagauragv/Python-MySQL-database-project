@@ -1,0 +1,7 @@
+.vscode/
+__pycache__/
+*.log
+.env
+.bash_history
+.node_repl_history
+AppData/
